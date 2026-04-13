@@ -1,5 +1,0 @@
-Dataset: Statistics Canada Monthly Retail Trade Sales by Province
-Table: 20-10-0056-01
-Download: https://www150.statcan.gc.ca/n1/tbl/csv/20100056-eng.zip
-Licence: Statistics Canada Open Licence
-Note: Raw CSV not included due to file size. Download directly from the link above.
