@@ -38,7 +38,7 @@ Licence: Statistics Canada Open Licence
 
 - Ontario accounts for the largest share of Canadian retail sales
 - Retail sales declined sharply in April 2020 and recovered by Q3 2020
-- [Add one specific finding from your own data]
+- Saskatchwan accounts for the lowest YoY growth at 2.4% of all provinces
 
 ## Skills Demonstrated
 
